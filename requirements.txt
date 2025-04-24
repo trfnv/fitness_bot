@@ -1,2 +1,6 @@
 aiogram==3.4.1
 python-dotenv
+apscheduler==3.10.1
+frontmatter==3.3.0
+markdown==3.4.4
+beautifulsoup4==4.12.2
